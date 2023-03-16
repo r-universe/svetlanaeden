@@ -1,0 +1,10 @@
+[
+  {
+    "package": "snowflakes",
+    "oncran": true
+  },
+  {
+    "package": "survSpearman",
+    "oncran": true
+  }
+]
